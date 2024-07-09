@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rofida-esam-50919a243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharwat-samy-363aa7177/" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/rofida-esam-50919a243/" 
 
 
 
